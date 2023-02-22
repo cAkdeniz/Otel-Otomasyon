@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OtelOtomasyon.Entities/1.0.0": {
+        "runtime": {
+          "OtelOtomasyon.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OtelOtomasyon.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

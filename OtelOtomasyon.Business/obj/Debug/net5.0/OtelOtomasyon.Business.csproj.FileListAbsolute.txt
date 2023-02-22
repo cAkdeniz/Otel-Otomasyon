@@ -1,0 +1,17 @@
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.Business.deps.json
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.Business.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\ref\OtelOtomasyon.Business.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.Business.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.csprojAssemblyReference.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.AssemblyInfo.cs
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\ref\OtelOtomasyon.Business.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.DataAccess.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\bin\Debug\net5.0\OtelOtomasyon.Entities.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Business\obj\Debug\net5.0\OtelOtomasyon.Business.csproj.CopyComplete

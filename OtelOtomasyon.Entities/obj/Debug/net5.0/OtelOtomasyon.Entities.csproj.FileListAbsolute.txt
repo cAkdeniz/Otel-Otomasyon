@@ -1,0 +1,12 @@
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\bin\Debug\net5.0\OtelOtomasyon.Entities.deps.json
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\bin\Debug\net5.0\OtelOtomasyon.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\bin\Debug\net5.0\ref\OtelOtomasyon.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\bin\Debug\net5.0\OtelOtomasyon.Entities.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.csprojAssemblyReference.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.AssemblyInfo.cs
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\ref\OtelOtomasyon.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.Entities\obj\Debug\net5.0\OtelOtomasyon.Entities.pdb

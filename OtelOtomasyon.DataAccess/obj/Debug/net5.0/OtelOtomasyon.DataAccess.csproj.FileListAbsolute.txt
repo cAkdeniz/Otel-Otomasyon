@@ -1,0 +1,15 @@
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\bin\Debug\net5.0\OtelOtomasyon.DataAccess.deps.json
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\bin\Debug\net5.0\OtelOtomasyon.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\bin\Debug\net5.0\ref\OtelOtomasyon.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\bin\Debug\net5.0\OtelOtomasyon.DataAccess.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\bin\Debug\net5.0\OtelOtomasyon.Entities.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\bin\Debug\net5.0\OtelOtomasyon.Entities.pdb
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.csprojAssemblyReference.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.AssemblyInfo.cs
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.csproj.CopyComplete
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\ref\OtelOtomasyon.DataAccess.dll
+C:\Users\User\Documents\NetCoreProjects\OtelOtomasyon\OtelOtomasyon.DataAccess\obj\Debug\net5.0\OtelOtomasyon.DataAccess.pdb
